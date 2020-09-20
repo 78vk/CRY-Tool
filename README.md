@@ -1,4 +1,4 @@
-# CRY-Tool
+# CRypt it Yourway(CRY) Tool
 ## BASICS:
 #### Affine Cipher:
 Affine Cipher is a monoalphabetic cipher which combines the multiplicative cipher and addictive cipher to create a new encryption/decryption scheme.
