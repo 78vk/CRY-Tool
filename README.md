@@ -1,5 +1,6 @@
 # CRY-Tool
-Affine Cipher: Affine Cipher is a monoalphabetic cipher which combines the multiplicative cipher and addictive cipher to create a new encryption/decryption scheme.
+##Affine Cipher:
+>Affine Cipher is a monoalphabetic cipher which combines the multiplicative cipher and addictive cipher to create a new encryption/decryption scheme.
 
 	ENCRYPTION:C=((P*K1)+K2) mod n  
 	DECRYPTION:P=((C-K2)*K1-1) mod n
