@@ -1,4 +1,4 @@
-# CRypt it Yourway(CRY) Tool
+# CRY-Tool
 ## BASICS:
 #### Affine Cipher:
 Affine Cipher is a monoalphabetic cipher which combines the multiplicative cipher and addictive cipher to create a new encryption/decryption scheme.
@@ -26,7 +26,7 @@ Hill cipher is a polyalphabetic cipher which uses linear algebraic concepts such
 	note that K-1*K=K* K-1=I (mod n)
 
 
-## CRY TOOL
+## CRY TOOL-CRypt it Yourway Tool
 
 #### About:
 CRY TOOL is a tool that combines the concepts of Hill cipher and Affine cipher to create a polyalphabetic cipher to ensure security. It replaces the single character keys from the Affine Cipher with a matrix and thus creates the effect of Hill cipher and polyalphabetic cipher. The Encryption and Decryption Scheme are as follows: 
